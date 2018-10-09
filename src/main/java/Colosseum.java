@@ -102,6 +102,7 @@ public class Colosseum {
      * (Look, we can return objects too!)
      */
     public static Pokemon buildPokemon() {
+        //sees if pokemon was built correctly
         Pokemon returnPokemon = null;
         return returnPokemon;
     }
